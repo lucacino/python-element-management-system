@@ -1,4 +1,4 @@
-# Python — Sistema di Gestione degli Elementi (SGE) ⚗️
+# Python — Sistema di Gestione degli Elementi (SGE)
 
 > Sistema completo per la gestione di una collezione di elementi, con funzionalità di registrazione, ricerca, filtraggio avanzato e statistiche — sviluppato in Python puro.
 
